@@ -75,7 +75,3 @@ We benchmarked several algorithms using 10-fold cross-validation:
 4.  Run the analysis script or notebook.
 
 ---
-
-## ✍️ Author
-**Sümeyye Bakırdal** Computer Engineering, Fırat University  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:sumeyyebakirdal@gmail.com)
